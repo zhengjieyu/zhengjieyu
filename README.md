@@ -18,6 +18,8 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)visitor
 - 📫 How to reach me jieyuzheng21@m.fudan.edu
 
 
+<div align="center"><img src="https://raw.githubusercontent.com/zhengjieyu/zhengjieyu/main/assets/github-contribution-grid-snake.svg" ></div>
+
 ![zhengjieyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengjieyu&show_icons=true&theme=radical)
 
 
