@@ -10,7 +10,7 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)visitor
 
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zhengjieyu" />
 </div>
 
 - 👋 Hi, I’m @zhengjieyu
