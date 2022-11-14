@@ -9,6 +9,10 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)visitor
 </div>
 
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+</div>
+
 - 👋 Hi, I’m @zhengjieyu
 - 👀 I’m interested in post-quantum cryptography engineering
 - 📫 How to reach me jieyuzheng21@m.fudan.edu
