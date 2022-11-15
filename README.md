@@ -31,4 +31,9 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)visitor
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
