@@ -27,7 +27,7 @@ My![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)visitor
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
