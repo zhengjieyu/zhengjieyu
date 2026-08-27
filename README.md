@@ -45,8 +45,15 @@ zhengjieyu@pqc:~$ cat links.sh
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zhengjieyu&show_icons=true&hide_border=true&count_private=true&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengjieyu&layout=compact&hide_border=true&langs_count=8&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+
+<br/>
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
 
 <br/>
 

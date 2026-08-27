@@ -9,6 +9,8 @@ on:
     branches: [main]
     paths-ignore:
       - 'profile-3d-contrib/**'
+      - 'profile-summary-card-output/**'
+      - 'assets/**'
 
 jobs:
   build:
