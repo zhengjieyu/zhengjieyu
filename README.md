@@ -45,16 +45,6 @@ zhengjieyu@pqc:~$ cat links.sh
 
 <div align="center">
 
-<img width="88%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
-
-<img height="195" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-<img height="195" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
-
-<img height="195" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
-<img height="195" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=zhengjieyu&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
