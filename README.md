@@ -45,15 +45,13 @@ zhengjieyu@pqc:~$ cat links.sh
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+<img width="88%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
 
-<br/>
+<img height="195" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img height="195" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
-
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
+<img height="195" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+<img height="195" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
 
 <br/>
 
