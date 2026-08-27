@@ -50,9 +50,19 @@ zhengjieyu@pqc:~$ cat links.sh
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhengjieyu&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=zhengjieyu&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
+
+```console
+zhengjieyu@pqc:~$ wakatime --last-7-days
+```
+
+<!--START_SECTION:waka-->
+```txt
+No activity tracked — connect WakaTime to populate
+```
+<!--END_SECTION:waka-->
 
 ```console
 zhengjieyu@pqc:~$ contrib --3d   # isometric commit calendar
