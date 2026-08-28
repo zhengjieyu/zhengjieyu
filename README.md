@@ -54,9 +54,11 @@ zhengjieyu@pqc:~$ wakatime --last-7-days
 ```
 
 <!--START_SECTION:waka-->
+
 ```txt
-No activity tracked — connect WakaTime to populate
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ```console
