@@ -43,18 +43,6 @@ zhengjieyu@pqc:~$ cat links.sh
 
 ---
 
-```console
-zhengjieyu@pqc:~$ ls blog/   # notes from implementation work
-```
-
-## `blog`
-
-| Date | Post | Languages |
-| :--- | :--- | :--- |
-| 2026-09-25 | [Engineering Post-Quantum Cryptography: From NIST Submissions to Implementation Pitfalls, Side Channels, and Testing](./blog/pqc-implementation-engineering.md) | [English](./blog/pqc-implementation-engineering.md) · [中文](./blog/pqc-implementation-engineering.zh-CN.md) |
-
----
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=zhengjieyu&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
